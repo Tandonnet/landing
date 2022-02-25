@@ -1,0 +1,8 @@
+.avatar {
+	width: 150px; 
+	height: 150px; 
+	object-fit: cover;
+	object-position: 5% 20%;
+	border-radius: 75px;
+	text-align: center;
+}
