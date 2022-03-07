@@ -47,7 +47,7 @@
   z-index: -100;
 }
 
-iframe {
+.popup-iframe {
   position: fixed;
   display: flex;
   align-items: center;
